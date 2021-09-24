@@ -1,5 +1,6 @@
 #import gorcery
 #gorcery_items =gorcery.gorcery_items
+#just updating the page
 items =[]
     #gorcery.items
 #need_to_shop = 'True'
